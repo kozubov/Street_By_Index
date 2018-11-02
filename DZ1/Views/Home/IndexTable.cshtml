@@ -1,0 +1,35 @@
+﻿@model IEnumerable<DZ1.Models.Index>
+
+@{
+    ViewBag.Title = "IndexTable";
+    Layout = null;
+}
+
+<h2>Таблица индексов</h2>
+
+<div class="table_block">
+    <table class="table table-condensed  table-hover">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name_Index)
+            </th>
+            <th class="row_link_hv">
+                Улицы
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name_Index)
+                </td>
+                <td class="row_link">
+                    @Html.ActionLink("Узнать улицы", "Details", new { id = item.Id }, new { @class = "link_street" })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
+

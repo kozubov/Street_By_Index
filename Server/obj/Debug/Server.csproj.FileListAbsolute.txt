@@ -1,0 +1,7 @@
+D:\999\setevoe\DZ1\DZ1\Server\bin\Debug\Server.exe.config
+D:\999\setevoe\DZ1\DZ1\Server\bin\Debug\Server.exe
+D:\999\setevoe\DZ1\DZ1\Server\bin\Debug\Server.pdb
+D:\999\setevoe\DZ1\DZ1\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\999\setevoe\DZ1\DZ1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\999\setevoe\DZ1\DZ1\Server\obj\Debug\Server.exe
+D:\999\setevoe\DZ1\DZ1\Server\obj\Debug\Server.pdb

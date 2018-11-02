@@ -1,0 +1,128 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-family: Roboto;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+ul.nav.nav-tabs {
+    margin: 10px 0;
+}
+
+    ul.nav.nav-tabs li:not(.active) a {
+        background-color: #eeeeee;
+        color: gray;
+    }
+
+    ul.nav.nav-tabs li.active a {
+        border-top: 3px solid #23527c;
+    }
+
+.index_table_linc {
+    display: block;
+    padding: 8px 20px;
+    text-align: center;
+    background-color: gray;
+    color: #fff;
+    text-decoration: none;
+    width: 200px;
+    transition: 0.5s;
+}
+
+    .index_table_linc:hover {
+        background-color: #23527c;
+        text-decoration: none;
+        color: #fff;
+    }
+
+.table_block {
+    display: block;
+    width: 650px;
+    border: 2px solid gray;
+    transition: 0.5s;
+}
+
+    .table_block:hover {
+        border: 2px solid #23527c;
+    }
+
+.row_link, .row_link_hv {
+    text-align: center;
+}
+
+.link_street {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    padding: 3px 10px;
+    outline: none;
+    text-decoration: none;
+    transition: 0.5s;
+    background-color: gray;
+    color: #fff;
+    text-align: center;
+    font-size: 13px;
+}
+
+    .link_street:hover {
+        outline: none;
+        text-decoration: none;
+        background-color: #23527c;
+        color: #fff;
+    }
+
+.dlobal_form {
+    background-color: #eeeeee;
+    width: 500px;
+    border: 2px solid gray;
+    transition: 0.5s;
+}
+
+    .dlobal_form:hover {
+        border: 2px solid #23527c;
+    }
+
+.div_form {
+    padding: 50px;
+}
+
+.button {
+    display: block;
+    width: 160px;
+    background-color: gray;
+    color: #ffffff;
+    text-align: center;
+    padding: 5px 12px;
+    border-style: none;
+    transition: 0.5s;
+    margin-top: 20px;
+}
+
+    .button:hover {
+        background-color: #23527c;
+        color: #ffffff;
+    }
+
+.form-control {
+    border: 1px solid grey;
+    outline: none;
+}

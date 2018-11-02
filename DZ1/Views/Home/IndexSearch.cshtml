@@ -1,0 +1,39 @@
+﻿@model DZ1.Models.Index
+
+@{
+    ViewBag.Title = "IndexSearch";
+    Layout = null;
+}
+<h2>Поиск по индексу</h2>
+
+@using (Html.BeginForm("IndexSearch", "Home", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+
+    <div class="form-horizontal">
+        <h4>Укажите индекс</h4>
+        <hr />
+        <div class="dlobal_form">
+            <div class="div_form">
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Name_Index, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Name_Index, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Name_Index, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Поиск" class="btn btn-default button" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+}
+

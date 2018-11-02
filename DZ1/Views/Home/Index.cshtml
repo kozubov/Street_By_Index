@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<ul class="nav nav-tabs">
+    <li class="active">
+        <a data-toggle="tab" href="#firsTab">Все индексы</a>
+    </li>
+    <li>
+        <a data-toggle="tab" href="#secondTab">Поиск по индексу</a>
+    </li>
+</ul>
+<div class="tab-content">
+    <div id="firsTab" class="tab-pane fade in active">@Html.Action("IndexTable")</div>
+    <div id="secondTab" class="tab-pane fade in ">@Html.Action("IndexSearch")</div>
+</div>
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}

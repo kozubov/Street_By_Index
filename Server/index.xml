@@ -1,0 +1,2159 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <City>
+    <Index value="50000"/>
+    <Street br="Автомобілістів"/>
+    <Street br="Аджарський (пров.)"/>
+    <Street br="Азовська"/>
+    <Street br="Академіка Губкіна"/>
+    <Street br="Анненка"/>
+    <Street br="Аргунових"/>
+    <Street br="Бальзака"/>
+    <Street br="Барбюса"/>
+    <Street br="Бебеля (пров.)"/>
+    <Street br="Богдановича"/>
+    <Street br="Богомольця"/>
+    <Street br="Варєйкіса"/>
+    <Street br="Василенка"/>
+    <Street br="Вахтангова"/>
+    <Street br="Вершиніна"/>
+    <Street br="Визволення (майдан)"/>
+    <Street br="Воровського (майдан)"/>
+    <Street br="Врубеля (пров.)."/>
+    <Street br="Валочикова"/>
+    <Street br="Глинки"/>
+    <Street br="Грабовського"/>
+    <Street br="Гулака Артемовського"/>
+    <Street br="Даргомижського (пров.)"/>
+    <Street br="Дем'яна Бідного (пров.)"/>
+    <Street br="10 Гвардійської дивізії"/>
+    <Street br="Джанкойська"/>
+    <Street br="Джека Лондона"/>
+    <Street br="Добролюбова (пров.)"/>
+    <Street br="Дружби"/>
+    <Street br="Едісона"/>
+    <Street br="Ейнштейна"/>
+    <Street br="Електрична"/>
+    <Street br="Енергетична"/>
+    <Street br="Ентузіастів"/>
+    <Street br="Жовтнева (рос. Октябрьская)"/>
+    <Street br="Зарічна"/>
+    <Street br="Зимова (2-14; 1-25)"/>
+    <Street br="Калиниченка"/>
+    <Street br="Камо"/>
+    <Street br="Карагандинська"/>
+    <Street br="Карла Лібнехта"/>
+    <Street br="Карла Маркса"/>
+    <Street br="Каунаська"/>
+    <Street br="Копиленка"/>
+    <Street br="Лебєдєва-Кумача (майдан)"/>
+    <Street br="Леніна (8-68; 11-89)"/>
+    <Street br="Лінійна"/>
+    <Street br="Наставників"/>
+    <Street br="Новоросійська"/>
+    <Street br="Обухової"/>
+    <Street br="Ольмінського"/>
+    <Street br="Першотравнева (рос. Первомайская)"/>
+    <Street br="Путилівський (пров.)"/>
+    <Street br="Пушкіна (2)"/>
+    <Street br="Рози Люксембург"/>
+    <Street br="Рубіжна"/>
+    <Street br="Саянська"/>
+    <Street br="Свідерського"/>
+    <Street br="Сиволапа"/>
+    <Street br="Слави"/>
+    <Street br="Стрєльцова (4-66; 3-25)"/>
+    <Street br="Улан-Удинський (пров.)"/>
+    <Street br="Уссурійська"/>
+    <Street br="Флоксів (пров.)"/>
+    <Street br="Чкалова"/>
+    <Street br="Шапавалова"/>
+    <Street br="Шопена"/>
+    <Street br="Шоріна"/>
+    <Street br="Яблочкіної"/>
+    <Street br="Янова"/>
+  </City>
+  
+  <City>
+    <Index value="50001"/>
+    <Street br="Валявка"/>
+    <Street br="Венеціанова"/>
+    <Street br="Гарнізонна"/>
+    <Street br="Красноградська"/>
+    <Street br="Краснодарська"/>
+    <Street br="Краснодарський (пров.)"/>
+    <Street br="Лагірна"/>
+    <Street br="Луначарського"/>
+    <Street br="Менжинського"/>
+    <Street br="Мерецкова (пров.)"/>
+    <Street br="Мерецкова"/>
+    <Street br="Мініна"/>
+    <Street br="Молодості"/>
+    <Street br="Мудрості"/>
+    <Street br="Нартова"/>
+    <Street br="Неруди"/>
+    <Street br="Одоєвського"/>
+    <Street br="Офіцерська"/>
+    <Street br="Павлика Морозова"/>
+    <Street br="Пожарського"/>
+    <Street br="Рахманінова"/>
+    <Street br="Солдатська"/>
+    <Street br="Табірна (рос. Лагерная)"/>
+    <Street br="Тимошенка (2-72; 1-73)"/>
+    <Street br="Шокальського"/>
+    <Street br="Юних комунарів"/>
+    <Street br="Ягідна"/>
+  </City>
+	
+  <City>
+    <Index value="50002"/>
+    <Street br="Балхаська"/>
+    <Street br="Білецького (пров.)"/>
+    <Street br="Ботева (пров.)"/>
+    <Street br="Волейбольна"/>
+    <Street br="Воровського (пров.)"/>
+    <Street br="Газетна"/>
+    <Street br="Декабристів"/>
+    <Street br="Івана Франка"/>
+    <Street br="Кавказька"/>
+    <Street br="Клайпедська"/>
+    <Street br="Кобилянського"/>
+    <Street br="Краківська"/>
+    <Street br="Лазиніна (пров.)"/>
+    <Street br="Лебєдинського"/>
+    <Street br="Лермонтова"/>
+    <Street br="Лодигіна (пров.)"/>
+    <Street br="Миру (просп.) (2а; 4; 1а; 3)"/>
+    <Street br="Наливайка"/>
+    <Street br="Пестеля"/>
+    <Street br="Пулківський (пров.)"/>
+    <Street br="Пушкіна (6-90; 1-75)"/>
+    <Street br="Стрєльцова (1; 2)"/>
+    <Street br="Труща"/>
+    <Street br="Тютчева (пров.)"/>
+    <Street br="Франко"/>
+    <Street br="Шуйська"/>
+  </City>
+	
+  <City>
+    <Index value="50004"/>
+    <Street br="Алексєєнка"/>
+    <Street br="Бажана"/>
+    <Street br="Балтійська"/>
+    <Street br="Беринга"/>
+    <Street br="Болгарська"/>
+    <Street br="Братиславська"/>
+    <Street br="Вівальді"/>
+    <Street br="Десантна"/>
+    <Street br="Єгорова"/>
+    <Street br="Єрмолової"/>
+    <Street br="Желябова"/>
+    <Street br="Каракалпацька"/>
+    <Street br="Кленова"/>
+    <Street br="Комуністична"/>
+    <Street br="Курячого"/>
+    <Street br="Кутаіська"/>
+    <Street br="Ливарна"/>
+    <Street br="Литейна"/>
+    <Street br="Машинобудівна"/>
+    <Street br="Менделєєва"/>
+    <Street br="Плеханова"/>
+    <Street br="Рилєєва"/>
+    <Street br="Січнева"/>
+    <Street br="Танкістів"/>
+    <Street br="Тиха"/>
+    <Street br="Тургенєва"/>
+    <Street br="Умникової"/>
+    <Street br="Урицького"/>
+    <Street br="Халтуріна"/>
+    <Street br="Хруничева"/>
+    <Street br="Цини"/>
+    <Street br="Челюскінців"/>
+    <Street br="Чередниченка"/>
+    <Street br="Чеська"/>
+  </City>
+	
+  <City>
+    <Index value="50005"/>
+    <Street br="Бардіна"/>
+    <Street br="Барнаульська"/>
+    <Street br="Бородіна"/>
+    <Street br="Виборзька"/>
+    <Street br="Вітчизняна"/>
+    <Street br="Вокзальна (23-29; 41-91)"/>
+    <Street br="Джапарідзе (пров.)"/>
+    <Street br="Должанського"/>
+    <Street br="Желєзноводська"/>
+    <Street br="Жукова"/>
+    <Street br="Інтернаціональна"/>
+    <Street br="Каховська"/>
+    <Street br="Кошута"/>
+    <Street br="Красний Жовтень"/>
+    <Street br="Крилова"/>
+    <Street br="Лесі Українки"/>
+    <Street br="Можайського"/>
+    <Street br="Нахімова (22-38; 1-103)"/>
+    <Street br="Нежданової"/>
+    <Street br="Новоподільська"/>
+    <Street br="Орджонікідзе (36-84; 21-65)"/>
+    <Street br="Островського"/>
+    <Street br="Очаківська"/>
+    <Street br="Партизанська (1-103)"/>
+    <Street br="Піонерський (пров.)"/>
+    <Street br="Пісочна"/>
+    <Street br="Пролетарська"/>
+    <Street br="Профспілкова"/>
+    <Street br="Садовського"/>
+    <Street br="Салтикова-Щедріна"/>
+    <Street br="Смольна (2-100; 1-93)"/>
+    <Street br="Солов’їна (2-84; 1-87)"/>
+    <Street br="Старицького"/>
+    <Street br="Стефаника"/>
+    <Street br="Стеценка"/>
+    <Street br="Тбіліська"/>
+    <Street br="Успенського"/>
+    <Street br="Уткіна"/>
+    <Street br="Ферганська"/>
+    <Street br="Ціолковського"/>
+    <Street br="Чайковського"/>
+    <Street br="Чарського"/>
+    <Street br="Черська"/>
+    <Street br="Читачів (2-27)"/>
+  </City>
+	
+  <City>
+    <Index value="50006"/>
+    <Street br="Ветеранів праці (4-22; 26; 1-25)"/>
+    <Street br="Косіора (2-18; 1-33)"/>
+    <Street br="Ландау"/>
+    <Street br="Металургів (просп.) (8-24; 38)"/>
+    <Street br="Постишева (2-24; 1-15)"/>
+    <Street br="Революційна (4-16; 3-15)"/>
+    <Street br="Стєклова"/>
+    <Street br="Цимлянська"/>
+  </City>
+	
+  <City>
+    <Index value="50007"/>
+    <Street br="Агафонова"/>
+    <Street br="Байкальська"/>
+    <Street br="Бехтерева"/>
+    <Street br="Булавіна (10-13)"/>
+    <Street br="Булавіна (8-24; 1-23)"/>
+    <Street br="Васнецова"/>
+    <Street br="Вільгельма Піка"/>
+    <Street br="Вітебська"/>
+    <Street br="Волзька"/>
+    <Street br="Волосевича (2-30; 1-13)"/>
+    <Street br="Глезоса"/>
+    <Street br="Демиденка"/>
+    <Street br="Джерельний (пров.)"/>
+    <Street br="Дзержинського (площа)"/>
+    <Street br="Дніпропетровське шосе (28-42)"/>
+    <Street br="Доблесті (пров.)"/>
+    <Street br="Донецька (1-9)"/>
+    <Street br="Елітна"/>
+    <Street br="Єфрємова (пров.)"/>
+    <Street br="Железнякова"/>
+    <Street br="Желтецького"/>
+    <Street br="Жертв Революції"/>
+    <Street br="Залізнорудна"/>
+    <Street br="Іллічівська"/>
+    <Street br="Каштанова"/>
+    <Street br="Київська"/>
+    <Street br="Книжна"/>
+    <Street br="Коларова"/>
+    <Street br="Красноводська"/>
+    <Street br="Красносільська"/>
+    <Street br="Крупської"/>
+    <Street br="Кубанська (2-26; 1-23 приватний сектор)"/>
+    <Street br="Лазо"/>
+    <Street br="Липнева (рос. Июльская)"/>
+    <Street br="Лізи Чайкіної"/>
+    <Street br="Миру (просп.) (10-16; 24а; 5; 7; 15а; 31а)"/>
+    <Street br="Орловська"/>
+    <Street br="Отто Брозовського (2-34; 1-33)"/>
+    <Street br="Охотська"/>
+    <Street br="Полтавська"/>
+    <Street br="Рязанова (2-8; 1-7)"/>
+    <Street br="Рязанська"/>
+    <Street br="Саратовська"/>
+    <Street br="Слєпньова"/>
+    <Street br="Сорочинська"/>
+    <Street br="Станіславського"/>
+    <Street br="Стучки"/>
+    <Street br="Таганрозька"/>
+    <Street br="Тарасової"/>
+    <Street br="Технічна"/>
+    <Street br="Тихоокеанська"/>
+    <Street br="Харківська"/>
+    <Street br="Чаадаєва"/>
+    <Street br="Чайкіна"/>
+    <Street br="Якіра (1; 3; 5а; 5б)"/>
+  </City>
+	
+  <City>
+    <Index value="50008"/>
+    <Street br="Космонавтів (32; 39; 3; 5; 7; 9; 11)"/>
+    <Street br="Соборна"/>
+    <Street br="Тинка"/>
+    <Street br="30-річчя Перемоги (площа)"/>
+  </City>
+	
+  <City>
+    <Index value="50011"/>
+    <Street br="Арзамаська"/>
+    <Street br="Галілея"/>
+    <Street br="Гафурі"/>
+    <Street br="Джамбула (32)"/>
+    <Street br="Житомирська"/>
+    <Street br="Калінінградська (1-13)"/>
+    <Street br="Карельська"/>
+    <Street br="Керчинська"/>
+    <Street br="Кільцева"/>
+    <Street br="Козаченка"/>
+    <Street br="Кузнечна"/>
+    <Street br="Лавреньова"/>
+    <Street br="Магнітогорська"/>
+    <Street br="Марійська"/>
+    <Street br="Низова"/>
+    <Street br="Озерна (2-20)"/>
+    <Street br="Олонецька"/>
+    <Street br="Перова (42-74; 43-75)"/>
+    <Street br="Пічугіна"/>
+    <Street br="Рубльова"/>
+    <Street br="Світлогірська"/>
+    <Street br="Серпуховська"/>
+    <Street br="Спокійна"/>
+    <Street br="Тольятті"/>
+    <Street br="Ульянівська"/>
+    <Street br="Чехословацька"/>
+    <Street br="Чистопільська"/>
+    <Street br="Шекспіра"/>
+  </City>
+	
+  <City>
+    <Index value="50012"/>
+    <Street br="Більшовицька"/>
+    <Street br="Джаміля"/>
+    <Street br="Дитинства"/>
+    <Street br="Дмитра Войчишена"/>
+    <Street br="Достоєвського"/>
+    <Street br="Казахська"/>
+    <Street br="Калінінградська (14-26)"/>
+    <Street br="Митрофанова"/>
+    <Street br="Руставелі"/>
+    <Street br="Сеченова"/>
+    <Street br="Федорова"/>
+  </City>
+	
+  <City>
+    <Index value="50014"/>
+    <Street br="Алексєєва"/>
+    <Street br="Артековський (пров.)"/>
+    <Street br="Батумська"/>
+    <Street br="Будапештська"/>
+    <Street br="Булди"/>
+    <Street br="Вавілова"/>
+    <Street br="Вербицького"/>
+    <Street br="В'єтнамська"/>
+    <Street br="Вишневського"/>
+    <Street br="Водна"/>
+    <Street br="Волкова"/>
+    <Street br="Вавілова"/>
+    <Street br="Вологодська"/>
+    <Street br="Грекова"/>
+    <Street br="Грозова"/>
+    <Street br="9 Січня"/>
+    <Street br="Економічна 59072"/>
+    <Street br="Зв’язку"/>
+    <Street br="Іртиська"/>
+    <Street br="Ісправна"/>
+    <Street br="Історична"/>
+    <Street br="Клубна"/>
+    <Street br="Комінтернівська"/>
+    <Street br="Коцюбинського"/>
+    <Street br="Кремлівська (16; 16а; 30; 13; 13а; 27)"/>
+    <Street br="Міжнародна"/>
+    <Street br="Нансена"/>
+    <Street br="Нарвська"/>
+    <Street br="Ногіна (1-5)"/>
+    <Street br="Писарева"/>
+    <Street br="Писемського"/>
+    <Street br="Пінська"/>
+    <Street br="Пітерська"/>
+    <Street br="Радищева"/>
+    <Street br="Рзянкіна"/>
+    <Street br="Руденка"/>
+    <Street br="Свірська"/>
+    <Street br="Севанська"/>
+    <Street br="Серго"/>
+    <Street br="Сержанта Рзянкіна"/>
+    <Street br="Скреперна"/>
+    <Street br="Скрипника"/>
+    <Street br="Слобідська"/>
+    <Street br="Соколина"/>
+    <Street br="Сулеймана Стальського"/>
+    <Street br="Таврійська"/>
+    <Street br="Тихвінська"/>
+    <Street br="Толбухіна"/>
+    <Street br="Угорська"/>
+    <Street br="Ужгородська"/>
+    <Street br="Ульбріхта"/>
+    <Street br="Фадєєва"/>
+    <Street br="Фасадна"/>
+    <Street br="Феодосійська"/>
+    <Street br="Фрунзе"/>
+    <Street br="Шконди"/>
+    <Street br="Шурупова"/>
+  </City>
+	
+  <City>
+    <Index value="50015"/>
+    <Street br="Бажова"/>
+    <Street br="Ватутіна (1-35; 2-30)"/>
+    <Street br="Електрозаводська (підприємства)"/>
+    <Street br="Конституційна"/>
+    <Street br="Кропивницького (2-44; 1-25; 25а)"/>
+    <Street br="Міжпланетна"/>
+    <Street br="Мусоргського (1-5)"/>
+    <Street br="Пірятинська"/>
+    <Street br="Поля"/>
+    <Street br="Сімбірцева (8-44; 5-41)"/>
+    <Street br="Стасова"/>
+    <Street br="Томського (31-39)"/>
+    <Street br="Третьякова (пров.)"/>
+    <Street br="Щепкіна"/>
+  </City>
+	
+  <City>
+    <Index value="50016"/>
+    <Street br="Східна"/>
+    <Street br="Шахтерська"/>
+  </City>
+	
+  <City>
+    <Index value="50017"/>
+    <Street br="Авілова"/>
+    <Street br="Аросьєва"/>
+    <Street br="Байдукова"/>
+    <Street br="Байканурська"/>
+    <Street br="Базарна"/>
+    <Street br="Бакинська"/>
+    <Street br="Бізе"/>
+    <Street br="Величка"/>
+    <Street br="Героїв Бреста"/>
+    <Street br="Гірників"/>
+    <Street br="Говорова"/>
+    <Street br="Горіхівська"/>
+    <Street br="Далекосхідна"/>
+    <Street br="Евенкійська"/>
+    <Street br="Кам’яна"/>
+    <Street br="Кібальчича"/>
+    <Street br="Конотопська"/>
+    <Street br="Костюшка"/>
+    <Street br="Крамського"/>
+    <Street br="Криворізька"/>
+    <Street br="Ломоносова (1)"/>
+    <Street br="Марії Раскової (пров.)"/>
+    <Street br="Марії Раскової"/>
+    <Street br="Мечникова"/>
+    <Street br="Мінська"/>
+    <Street br="Місячна"/>
+    <Street br="Народна"/>
+    <Street br="Новопільська"/>
+    <Street br="Новосибірська"/>
+    <Street br="Овчаренка"/>
+    <Street br="Олімпійська"/>
+    <Street br="Оренбурзька"/>
+    <Street br="Остроградська"/>
+    <Street br="Поліська"/>
+    <Street br="Посєлкова"/>
+    <Street br="Приволзька"/>
+    <Street br="Призова"/>
+    <Street br="Пристанційна"/>
+    <Street br="Раєвського"/>
+    <Street br="Салавата Юлаєва"/>
+    <Street br="Селищна (рос. Поселковая)"/>
+    <Street br="Сочинська"/>
+    <Street br="Тагора"/>
+    <Street br="Танєєва"/>
+    <Street br="Тичини"/>
+    <Street br="Тобольська"/>
+    <Street br="Толстого (площа)"/>
+    <Street br="Туркенича"/>
+    <Street br="Уточкіна"/>
+    <Street br="Уфімцева"/>
+    <Street br="Ушинського"/>
+    <Street br="Фастівська"/>
+    <Street br="Федосєєва"/>
+    <Street br="Флеровського (пров.)"/>
+    <Street br="Хакаський (пров.)"/>
+    <Street br="Хакаська"/>
+    <Street br="Цандера"/>
+    <Street br="Центральна (60; 62; 64; 66; 70)"/>
+    <Street br="Цілинна"/>
+    <Street br="Чавунна"/>
+    <Street br="Чебоксарська"/>
+    <Street br="Челябінська"/>
+    <Street br="Чернівецька"/>
+    <Street br="Чуваська"/>
+    <Street br="Чугунна"/>
+    <Street br="Шатурська"/>
+    <Street br="Шелгунова"/>
+    <Street br="Шпагіна"/>
+    <Street br="Шумана"/>
+    <Street br="Щелгунова"/>
+    <Street br="Южина"/>
+    <Street br="Юмашева"/>
+    <Street br="Юності"/>
+    <Street br="Юріївська"/>
+  </City>
+	
+  <City>
+    <Index value="50019"/>
+    <Street br="Акопяна"/>
+    <Street br="Атлантична"/>
+    <Street br="Берлінська"/>
+    <Street br="Бестужева"/>
+    <Street br="Бєлороссова"/>
+    <Street br="Білоросова"/>
+    <Street br="Блока"/>
+    <Street br="Богуна"/>
+    <Street br="Весняна"/>
+    <Street br="Вікова"/>
+    <Street br="Гаріна"/>
+    <Street br="Гизенги (пров.)"/>
+    <Street br="Жмеринський (пров.)"/>
+    <Street br="Жмеринська"/>
+    <Street br="Запорізька"/>
+    <Street br="Заслонова (пров.)"/>
+    <Street br="Знань"/>
+    <Street br="Казановський (пров.)"/>
+    <Street br="Каракозова"/>
+    <Street br="Кіровоградська"/>
+    <Street br="Козачий (пров.)"/>
+    <Street br="Лавроненка"/>
+    <Street br="Леніна (2-6)"/>
+    <Street br="Маріупольська"/>
+    <Street br="Модрівська"/>
+    <Street br="Правди"/>
+    <Street br="Радості"/>
+    <Street br="Рембрандта"/>
+    <Street br="Рибалка"/>
+    <Street br="Сакко і Ванцетті"/>
+    <Street br="Сташкова"/>
+    <Street br="Українська (1; 2)"/>
+    <Street br="Фесенка"/>
+    <Street br="Фінська"/>
+    <Street br="Фруктова"/>
+    <Street br="Хасанська"/>
+    <Street br="Хатаєвича"/>
+    <Street br="Херсонська"/>
+    <Street br="Хліборобна"/>
+    <Street br="Хостинська"/>
+    <Street br="Шарохіна"/>
+    <Street br="Юхневича"/>
+  </City>
+	
+  <City>
+    <Index value="50021"/>
+    <Street br="Старих більшовиків"/>
+  </City>
+	
+  <City>
+    <Index value="50022"/>
+    <Street br="Айвазовського"/>
+    <Street br="Бєлінського"/>
+    <Street br="Будівельників"/>
+    <Street br="Бутанова"/>
+    <Street br="Володарського"/>
+    <Street br="Гжатська"/>
+    <Street br="Журнальна"/>
+    <Street br="Затонського"/>
+    <Street br="Земнухова"/>
+    <Street br="Новомосковська"/>
+    <Street br="Переяславська"/>
+    <Street br="Правобережна"/>
+    <Street br="Прохолодна"/>
+    <Street br="Твардовського"/>
+    <Street br="Турінська"/>
+    <Street br="Шпака"/>
+    <Street br="Штерна"/>
+    <Street br="Югоківська"/>
+  </City>
+  
+  <City>
+    <Index value="50023"/>
+    <Street br="Башкирська"/>
+    <Street br="Бєляєва"/>
+    <Street br="Біляєва"/>
+    <Street br="Болотникова"/>
+    <Street br="Вакуленчука"/>
+    <Street br="Вернадського"/>
+    <Street br="Володимирська"/>
+    <Street br="Гребінки"/>
+    <Street br="Грозненська"/>
+    <Street br="Гуцульська"/>
+    <Street br="Жигулівська"/>
+    <Street br="Зразковий (пров.)"/>
+    <Street br="Кириленка"/>
+    <Street br="Койнаша"/>
+    <Street br="Колійна (рос. Путейная)"/>
+    <Street br="Колійний (рос. Путейный) (пров.)"/>
+    <Street br="Комунарна"/>
+    <Street br="Криленка"/>
+    <Street br="Ленінського комсомолу"/>
+    <Street br="Лепешинської"/>
+    <Street br="Магаданська"/>
+    <Street br="Обнорського (78-82; 21-23)"/>
+    <Street br="Попова"/>
+    <Street br="Привокзальна"/>
+    <Street br="Проскурівська"/>
+    <Street br="Путійна"/>
+    <Street br="Разенкова"/>
+    <Street br="Семибратова"/>
+    <Street br="Серафимовича"/>
+    <Street br="Сільськогосподарська"/>
+    <Street br="Софіївська"/>
+    <Street br="Тамбовська"/>
+    <Street br="Теміртауська"/>
+    <Street br="Тупикова"/>
+    <Street br="Тюменська"/>
+    <Street br="Удальцова"/>
+    <Street br="Умова"/>
+    <Street br="Уншліхта"/>
+    <Street br="Футбольна"/>
+    <Street br="Хлопуші"/>
+    <Street br="Хохломська"/>
+    <Street br="Черкаська"/>
+    <Street br="Чеченська"/>
+  </City>
+	
+  <City>
+    <Index value="50024"/>
+    <Street br="Бакулєва"/>
+    <Street br="Єдності"/>
+    <Street br="Ємельянова"/>
+    <Street br="Желтовського"/>
+    <Street br="Кривбасівська"/>
+    <Street br="Купріна (2-12; 1)"/>
+    <Street br="Лозуватська (2-28; 1-27)"/>
+    <Street br="Міаська"/>
+    <Street br="Ракетна"/>
+    <Street br="Російська"/>
+    <Street br="Свердлова (11"/>
+    <Street br="Таманська"/>
+    <Street br="Томанська"/>
+    <Street br="Українська (4-112; 3-55)"/>
+    <Street br="Фісташкова"/>
+    <Street br="Фроленка"/>
+    <Street br="Харитонова"/>
+    <Street br="Хвойна"/>
+    <Street br="Хібінська"/>
+    <Street br="Черняховського (2-52; 1-97)"/>
+  </City>
+	
+  <City>
+    <Index value="50025"/>
+    <Street br="Авторська"/>
+    <Street br="Академічна"/>
+    <Street br="Алмазна"/>
+    <Street br="Амурська"/>
+    <Street br="Арманд"/>
+    <Street br="Армійська"/>
+    <Street br="Артилеристів"/>
+    <Street br="Багратіона (2-22; 1-23)"/>
+    <Street br="Баумана (42-62; 49-75)"/>
+    <Street br="Бекетова"/>
+    <Street br="Білих акацій"/>
+    <Street br="Буковинська"/>
+    <Street br="Ваніна"/>
+    <Street br="Вишнева"/>
+    <Street br="Вірменська"/>
+    <Street br="Волховська"/>
+    <Street br="Вольська"/>
+    <Street br="Гете ( 42-62)"/>
+    <Street br="Голубина"/>
+    <Street br="Калузька"/>
+    <Street br="Лабораторна (50-100; 49-101)"/>
+    <Street br="Миколаївське шосе"/>
+    <Street br="Мукачева"/>
+    <Street br="Нахічеванська"/>
+    <Street br="Ньютона"/>
+    <Street br="Окружна"/>
+    <Street br="Осипенка"/>
+    <Street br="Павленка"/>
+    <Street br="Перекопська"/>
+    <Street br="Пирогова (44-100; 43/1-101)"/>
+    <Street br="Погребняка"/>
+    <Street br="Політехнічна"/>
+    <Street br="Статутна (рос. Уставная)"/>
+    <Street br="Студентська"/>
+    <Street br="Трудових резервів"/>
+    <Street br="Уставна"/>
+    <Street br="Усть-Каменогорська"/>
+    <Street br="Учителів"/>
+    <Street br="Ушакова"/>
+    <Street br="Чебаркульська"/>
+  </City>
+	
+  <City>
+    <Index value="50026"/>
+    <Street br="Груні Романової"/>
+    <Street br="Дніпропетровське шосе (44-80)"/>
+    <Street br="Іжевська"/>
+    <Street br="Кармелюка"/>
+    <Street br="Макаренка"/>
+    <Street br="Мануїльського"/>
+    <Street br="Обручева"/>
+    <Street br="Панаса Мирного"/>
+    <Street br="Південний (просп.)"/>
+    <Street br="Подлєпи"/>
+    <Street br="Поштова"/>
+    <Street br="Савицького"/>
+    <Street br="Таганська"/>
+    <Street br="60-річчя СРСР (площа)"/>
+    <Street br="Ярославська"/>
+  </City>
+	
+  <City>
+    <Index value="50027"/>
+    <Street br="Булавіна (2-8)"/>
+    <Street br="Булавіна (2; 4; 6)"/>
+    <Street br="Волгоградська (14; 16; 18; 20; 17; 19; 21; 23)"/>
+    <Street br="Волосевича (32-78; 15-57)"/>
+    <Street br="Гагаріна (просп.) (2-52; 1-51)"/>
+    <Street br="Галенка (4)"/>
+    <Street br="Димитрова (81-105)"/>
+    <Street br="Дмитра Глинки"/>
+    <Street br="Єсеніна"/>
+    <Street br="Костенка (2-10; 1-15)"/>
+    <Street br="Кубанська (2-68; 1-67)"/>
+    <Street br="Отто Брозовського (36-72; 35-85)"/>
+    <Street br="Рокоссовського"/>
+    <Street br="Свєтлова"/>
+  </City>
+	
+  <City>
+    <Index value="50029"/>
+    <Street br="Азізбекова"/>
+    <Street br="Бучми"/>
+    <Street br="Варшавський (пров.)"/>
+    <Street br="Владивостоцька"/>
+    <Street br="20 Партз’їзду (2-12; 1-3)"/>
+    <Street br="Ільменська"/>
+    <Street br="Клінічна"/>
+    <Street br="Комсомольська"/>
+    <Street br="Кропивницького (46; 52-66)"/>
+    <Street br="Кропивницького (30-50; 29-49)"/>
+    <Street br="Куликівська"/>
+    <Street br="Музична"/>
+    <Street br="Невська"/>
+    <Street br="Ногіна (24-38; 23-31)"/>
+    <Street br="Омська"/>
+    <Street br="Петроградська"/>
+    <Street br="Подільська"/>
+    <Street br="Празька"/>
+    <Street br="Сімбірцева (2; 4; 6; 1; 3)"/>
+    <Street br="Сковороди"/>
+    <Street br="Сімбірцева (2; 4; 6; 8-44; 1; 3; 5-41)"/>
+    <Street br="Станюковича"/>
+    <Street br="Томського (2-10; 20; 22а; 1-19)"/>
+    <Street br="Тюленіна"/>
+    <Street br="Університетська"/>
+    <Street br="Уфимська"/>
+    <Street br="Шкапенка"/>
+    <Street br="Шостаковича"/>
+  </City>
+	
+  <City>
+    <Index value="50031"/>
+    <Street br="Альпіністів"/>
+    <Street br="Аляб'єва"/>
+    <Street br="Ампера"/>
+    <Street br="Араратська"/>
+    <Street br="Аткарський (пров.)"/>
+    <Street br="Барановицький (пров.)"/>
+    <Street br="Березниковська"/>
+    <Street br="Валдайська"/>
+    <Street br="Верді"/>
+    <Street br="Вересаєва"/>
+    <Street br="Ветеранів"/>
+    <Street br="Вешенська"/>
+    <Street br="Войнич"/>
+    <Street br="Вучетича"/>
+    <Street br="Галана (2-72; 1-69)"/>
+    <Street br="Гірничоалтайська"/>
+    <Street br="Гомельська"/>
+    <Street br="Давидовського (пров.)"/>
+    <Street br="Данилевського (пров.)"/>
+    <Street br="Женевська"/>
+    <Street br="Ігнатьєва"/>
+    <Street br="Кисловодська"/>
+    <Street br="Кремлівська (2-14; 1-14)"/>
+    <Street br="Майкопська"/>
+    <Street br="Мурманська"/>
+    <Street br="Новошахтинська"/>
+    <Street br="Паризької Комуни (74-164; 75-163)"/>
+    <Street br="Ревуцького"/>
+    <Street br="Солікамська"/>
+    <Street br="Соціалістична"/>
+    <Street br="Талалхіна"/>
+    <Street br="Товстоновського"/>
+    <Street br="Тухачевського (2-14; 1-11)"/>
+    <Street br="Ударна"/>
+    <Street br="Чайна"/>
+    <Street br="Чіатурська"/>
+    <Street br="Чубінська"/>
+    <Street br="Шапошникова"/>
+    <Street br="Шухова"/>
+    <Street br="Щаденка"/>
+    <Street br="Юрчака"/>
+    <Street br="Якушкіна"/>
+    <Street br="Яроша"/>
+    <Street br="Герцена"/>
+    <Street br="Руднична"/>
+    <Street br="Черепанових"/>
+    <Street br="Яцкова"/>
+  </City>
+	
+  <City>
+    <Index value="50034"/>
+    <Street br="Аварська"/>
+    <Street br="Аврори"/>
+    <Street br="Аглобудівська"/>
+    <Street br="Азіатська"/>
+    <Street br="Апма-атинська"/>
+    <Street br="Алуштинська"/>
+    <Street br="Ангарська"/>
+    <Street br="Андижанська"/>
+    <Street br="Аральська"/>
+    <Street br="Ачинська"/>
+    <Street br="Ашхабадська"/>
+    <Street br="Голікова"/>
+    <Street br="Громової"/>
+    <Street br="Збагачувальна"/>
+    <Street br="Квітнева"/>
+    <Street br="Кімівська"/>
+    <Street br="Кронштадтська"/>
+    <Street br="Лисенка"/>
+    <Street br="Ліста"/>
+    <Street br="Лумумби"/>
+    <Street br="Льони Голикова"/>
+    <Street br="Новокриворізька"/>
+    <Street br="Серпнева"/>
+  </City>
+	
+  <City>
+    <Index value="50036"/>
+    <Street br="Артема"/>
+    <Street br="Бикова"/>
+    <Street br="Геленджицька"/>
+    <Street br="Генічеська"/>
+    <Street br="Дишинського"/>
+    <Street br="Дощова"/>
+    <Street br="Качалова (2-16; 1-53)"/>
+    <Street br="Косарева (1-157)"/>
+    <Street br="Льотчиків"/>
+    <Street br="Мануйлова (2-16)"/>
+    <Street br="Мелешкіна (2-22; 1-21)"/>
+    <Street br="Одеська"/>
+    <Street br="Паркова"/>
+    <Street br="Пархоменка"/>
+    <Street br="Севастопольська"/>
+    <Street br="Софії Перовської"/>
+    <Street br="Тесленка (2-24; 40; 1-9; 21-31)"/>
+    <Street br="Філатова"/>
+    <Street br="Харцизька (2-174; 1-137)"/>
+  </City>
+	
+  <City>
+    <Index value="50037"/>
+    <Street br="Альпійська"/>
+    <Street br="Боткіна"/>
+    <Street br="Буряченко"/>
+    <Street br="Верстовського"/>
+    <Street br="Високовольтна"/>
+    <Street br="Войчишина"/>
+    <Street br="23 Лютого (2-32; 13-69)"/>
+    <Street br="Діккенса (12-16; 1-15)"/>
+    <Street br="Єлізаровський (пров.)"/>
+    <Street br="Єреванська"/>
+    <Street br="Жовторічинська"/>
+    <Street br="Канарська"/>
+    <Street br="Карачаєвська"/>
+    <Street br="Кемерівська"/>
+    <Street br="Ковельська"/>
+    <Street br="Колискова"/>
+    <Street br="Комсомолу України"/>
+    <Street br="Концертна"/>
+    <Street br="Корсунський (пров.)"/>
+    <Street br="Красногвардійська"/>
+    <Street br="Красноярська"/>
+    <Street br="Кренкеля (пров.)"/>
+    <Street br="Лаштоби"/>
+    <Street br="Ленська"/>
+    <Street br="Литовська"/>
+    <Street br="Макарова"/>
+    <Street br="Миргородська"/>
+    <Street br="Мировича"/>
+    <Street br="Мінеральна"/>
+    <Street br="Мусоргського (34; 35)"/>
+    <Street br="Огінського"/>
+    <Street br="Онезька"/>
+    <Street br="Оршинська"/>
+    <Street br="Осіння"/>
+    <Street br="Павлодарська"/>
+    <Street br="Палехська"/>
+    <Street br="Перлинна (рос. Жемчужная)"/>
+    <Street br="Пиманенка"/>
+    <Street br="Полегська"/>
+    <Street br="Полярна"/>
+    <Street br="Праці"/>
+    <Street br="Примакова"/>
+    <Street br="Ремесляна"/>
+    <Street br="Семипалатинська"/>
+    <Street br="Слав’янська"/>
+    <Street br="Спартака"/>
+    <Street br="Ставропільська"/>
+    <Street br="Старобешівська"/>
+    <Street br="Степова"/>
+    <Street br="Сумська"/>
+    <Street br="Сурикова"/>
+    <Street br="Таїсії Буряченко"/>
+    <Street br="Тернопільська"/>
+    <Street br="Тимірязєва"/>
+    <Street br="Тихорецька"/>
+    <Street br="Троїцька"/>
+    <Street br="Універсальна"/>
+    <Street br="Урюпінська"/>
+    <Street br="Федьковича"/>
+    <Street br="Фелікса Кона"/>
+    <Street br="Фєта"/>
+    <Street br="Чернігівська"/>
+    <Street br="Юнга"/>
+    <Street br="Юона"/>
+    <Street br="Яблонського"/>
+    <Street br="Яворницького"/>
+    <Street br="Якутська"/>
+  </City>
+	
+  <City>
+    <Index value="50038"/>
+    <Street br="Алітна"/>
+    <Street br="Водоп'янова"/>
+    <Street br="Елістинська"/>
+    <Street br="Заозерна"/>
+    <Street br="Кірова (бульвар)"/>
+    <Street br="Симонова"/>
+    <Street br="Цементників"/>
+  </City>
+	
+  <City>
+    <Index value="50039"/>
+    <Street br="Шулейкіна"/>
+  </City>
+	
+  <City>
+    <Index value="50040"/>
+    <Street br="Автоматична"/>
+    <Street br="Аптечна"/>
+    <Street br="Бухарська"/>
+    <Street br="Віри Панової"/>
+    <Street br="Гарматна"/>
+    <Street br="Гюго"/>
+    <Street br="Деповський (пров.)"/>
+    <Street br="Дєжнєва (пров.)"/>
+    <Street br="Діккенса (2-74; 3-73)"/>
+    <Street br="Зустрічна"/>
+    <Street br="Каменська"/>
+    <Street br="Красногірницька"/>
+    <Street br="Кримська"/>
+    <Street br="Лавочкіна"/>
+    <Street br="Обласна"/>
+    <Street br="Перещепінська"/>
+    <Street br="Писаржевського"/>
+    <Street br="Плавильників"/>
+    <Street br="Планетарна"/>
+    <Street br="Прикордонна"/>
+    <Street br="Рафаеля"/>
+    <Street br="Саврасова"/>
+    <Street br="Суздальська"/>
+    <Street br="Тунгуська"/>
+    <Street br="Фігнер"/>
+    <Street br="Хорозька"/>
+    <Street br="Червоногірницька (рос. Красногорняцкая)"/>
+    <Street br="Ялтинська"/>
+  </City>
+	
+  <City>
+    <Index value="50041"/>
+    <Street br="Абхазька"/>
+    <Street br="Агрономічна"/>
+    <Street br="Акмолінська"/>
+    <Street br="Актюбінська"/>
+    <Street br="Амбулаторна"/>
+    <Street br="Анатолія Щербака"/>
+    <Street br="Балашовська"/>
+    <Street br="Баштанна"/>
+    <Street br="Бобруйська"/>
+    <Street br="Екіпажна"/>
+    <Street br="Єйський (пров.)"/>
+    <Street br="Олексія Щербака"/>
+    <Street br="Радгоспна"/>
+    <Street br="Саласька"/>
+    <Street br="Сальський 3-й"/>
+    <Street br="Совхозна"/>
+    <Street br="Тимошенка (приватний сектор)"/>
+    <Street br="Шиферна"/>
+    <Street br="Щербака"/>
+    <Street br="Яворів"/>
+    <Street br="Ясенів"/>
+  </City>
+	
+  <City>
+    <Index value="50042"/>
+    <Street br="200-річчя Кривого Рогу (просп.) (2-12; 42; 1)"/>
+    <Street br="200 років Кривому Рогу (4; 6; 1-5)"/>
+    <Street br="Подбєльского (2-20; 40; 42; 1-19; 25; 41)"/>
+    <Street br="Співдружності (2-24; 32; 36-46; 5-9; 13; 43; 45)"/>
+  </City>
+	
+  <City>
+    <Index value="50044"/>
+    <Street br="Військове містечко 33"/>
+    <Street br="Лісорозплідник"/>
+    <Street br="Мелашенкова"/>
+    <Street br="Павлоградський (пров.)"/>
+    <Street br="Самарська"/>
+  </City>
+	
+  <City>
+    <Index value="50045"/>
+    <Street br="Авіаційна"/>
+    <Street br="Баратинська"/>
+    <Street br="Брянська (87; 93; 95)"/>
+    <Street br="Геологічна"/>
+    <Street br="Груднева (рос. Декабрьская)"/>
+    <Street br="Джамбула"/>
+    <Street br="Дідро (28-74; 27-73)"/>
+    <Street br="Єлецька"/>
+    <Street br="Знаменських (пров.)"/>
+    <Street br="Ізобілія"/>
+    <Street br="Кабардинська"/>
+    <Street br="Кадіївська"/>
+    <Street br="Камчатська"/>
+    <Street br="Кокадська"/>
+    <Street br="Костромська"/>
+    <Street br="Крутогірна"/>
+    <Street br="Купріна (20-122; 3-123)"/>
+    <Street br="Леонова"/>
+    <Street br="Лозуватська (30а-54; 24; 31-55)"/>
+    <Street br="Незабудок"/>
+    <Street br="Новолозуватський (пров.)"/>
+    <Street br="Ойстраха"/>
+    <Street br="Питомий (пров.)"/>
+    <Street br="Тереховського"/>
+    <Street br="Тіниста"/>
+    <Street br="Толстого (44-118; 45-117)"/>
+    <Street br="Трубецького"/>
+    <Street br="Трудової слави"/>
+    <Street br="Туполєва"/>
+    <Street br="Тютюнника"/>
+    <Street br="Удільний (пров.)"/>
+    <Street br="Урожайна (22-56; 23-55)"/>
+    <Street br="Хайфонська"/>
+    <Street br="Червоних трянд (рос. Красных роз)"/>
+  </City>
+	
+  <City>
+    <Index value="50046"/>
+    <Street br="Барикадна"/>
+    <Street br="Біломорська"/>
+    <Street br="Бодрості"/>
+    <Street br="Військове містечко 35"/>
+    <Street br="Вільямса"/>
+    <Street br="Волинська"/>
+    <Street br="Геруцького"/>
+    <Street br="Достатку (рос .Изобилия)"/>
+    <Street br="Піхотинська (2-50; 1-48)"/>
+    <Street br="Тепла"/>
+    <Street br="Улан-Баторська"/>
+    <Street br="Упіта"/>
+  </City>
+	
+  <City>
+    <Index value="50047"/>
+    <Street br="Брюллова"/>
+    <Street br="ж/м «Володимирівський»"/>
+    <Street br="23 Лютого (52-162; 81-113)"/>
+    <Street br="Карбишева"/>
+    <Street br="Куна"/>
+    <Street br="Курильська"/>
+    <Street br="Михайличенко"/>
+    <Street br="Самотічна"/>
+    <Street br="Фонвізіна"/>
+    <Street br="Чукотська"/>
+    <Street br="Щорса (2-52; 1-29)"/>
+  </City>
+	
+  <City>
+    <Index value="50048"/>
+    <Street br="Азіна"/>
+    <Street br="Алеутська"/>
+    <Street br="Андерсена"/>
+    <Street br="Антокольского"/>
+    <Street br="Батуринська"/>
+    <Street br="Березнева"/>
+    <Street br="Бернарда Шоу"/>
+    <Street br="Бетховена"/>
+    <Street br="Блинова (2-60; 1-57)"/>
+    <Street br="Бурятська"/>
+    <Street br="Веселопільська"/>
+    <Street br="Вечірньокутська"/>
+    <Street br="Вєсніна"/>
+    <Street br="Вільнюська"/>
+    <Street br="Вінницька"/>
+    <Street br="Гашека"/>
+    <Street br="Давидова"/>
+    <Street br="Дадіані"/>
+    <Street br="Дніпровська"/>
+    <Street br="Доватора"/>
+    <Street br="Домобудівників (майдан)"/>
+    <Street br="Котляревського"/>
+    <Street br="Лісова"/>
+    <Street br="Моцарта"/>
+    <Street br="Мудрьонівська"/>
+    <Street br="Невельська"/>
+    <Street br="Нестерова"/>
+    <Street br="Новаторська"/>
+    <Street br="Ольховська"/>
+    <Street br="Орбелі"/>
+    <Street br="Паровозна"/>
+    <Street br="Пастера"/>
+    <Street br="Пензенська (2-74; 1-73)"/>
+    <Street br="Планова"/>
+    <Street br="Рейнська"/>
+    <Street br="Рильського"/>
+    <Street br="Ростовська"/>
+    <Street br="Самойлова (2-64; 66-82; 1-45; 47-63)"/>
+    <Street br="Сервантеса"/>
+    <Street br="Спандаряна"/>
+    <Street br="Стендаля"/>
+    <Street br="Столична"/>
+    <Street br="Тіпанова"/>
+    <Street br="Транспортна"/>
+    <Street br="Троянд (рос. Роз)"/>
+    <Street br="Узбецька"/>
+    <Street br="Урбанського"/>
+    <Street br="Черногорська"/>
+    <Street br="Чижевського"/>
+    <Street br="Чорногірська"/>
+    <Street br="Шепетівська"/>
+    <Street br="Ширван-Заде"/>
+    <Street br="Шмаківська"/>
+    <Street br="Шоу"/>
+    <Street br="Ювелірна"/>
+    <Street br="Юрія Долгорукого"/>
+  </City>
+	
+  <City>
+    <Index value="50049"/>
+    <Street br="Бердянська"/>
+    <Street br="Ванди Василевської"/>
+    <Street br="Виноградна"/>
+    <Street br="Вільна"/>
+    <Street br="200-річчя Кривого Рогу (просп.) (14-20; 30-34)"/>
+    <Street br="200 років Кривому Рогу (14-20)"/>
+    <Street br="Каспійська"/>
+    <Street br="Курганська"/>
+    <Street br="Курчатова (38; 1а; 1; 3; 5; 7; 9; 11; 13"/>
+    <Street br="Костопільська"/>
+    <Street br="Нобелівська"/>
+    <Street br="Подбєльского (26; 28; 30; 32; 34; 36; 38; 29; 31; 33; 35; 37)"/>
+    <Street br="Поперечна"/>
+    <Street br="Сагайдачного (2-28; 30; 32а"/>
+    <Street br="Скандинавська"/>
+    <Street br="Скляра"/>
+    <Street br="Спаська (5-29)"/>
+    <Street br="Федоровського"/>
+    <Street br="Хетагурова"/>
+    <Street br="Чигоріна (2-16; 1-97)"/>
+  </City>
+	
+  <City>
+    <Index value="50050"/>
+    <Street br="Галатова"/>
+    <Street br="Євпаторійська (2-18; 1-17)"/>
+    <Street br="Землячки"/>
+    <Street br="Металургів (просп.) (26-36; 9-31)"/>
+    <Street br="Олейникова"/>
+    <Street br="Рязанова (8; 9; 7а-19)"/>
+    <Street br="Хабаровська"/>
+  </City>
+	
+  <City>
+    <Index value="50051"/>
+    <Street br="Вагнера"/>
+    <Street br="Вітчизни (рос. Отчизны)"/>
+    <Street br="Вокзальна (2-28; 1-21)"/>
+    <Street br="Євпаторійська (19-21)"/>
+    <Street br="Нахімова (40-54; 105-145а)"/>
+    <Street br="Орджонікідзе (2-34; 3-19)"/>
+    <Street br="Партизанська (90-128; 91-129)"/>
+    <Street br="Савельєва (2-16; 1-17; 33; 31; 35)"/>
+    <Street br="Семашка"/>
+    <Street br="Смольна (102-142; 95-125)"/>
+    <Street br="Солов’їна (86-100; 89-103)"/>
+    <Street br="Тевосяна"/>
+    <Street br="Черешнева"/>
+    <Street br="Читачів (24-36; 13-37)"/>
+  </City>
+	
+  <City>
+    <Index value="50052"/>
+    <Street br="Аксакова"/>
+    <Street br="Бадаєва"/>
+    <Street br="Гданська"/>
+    <Street br="Героїзму"/>
+    <Street br="Демиди"/>
+    <Street br="Жовтонога"/>
+    <Street br="Листопадова"/>
+    <Street br="Маяковського (2-14; 1-13)"/>
+    <Street br="Мордовська"/>
+    <Street br="Надії"/>
+    <Street br="Ненецька"/>
+    <Street br="Петровського"/>
+    <Street br="Сім’ї Демиди"/>
+    <Street br="Удегейська"/>
+    <Street br="Фіалкова"/>
+    <Street br="Філіппова"/>
+    <Street br="Чапаєва"/>
+    <Street br="Чуковського"/>
+  </City>
+	
+  <City>
+    <Index value="50053"/>
+    <Street br="Армавірська"/>
+    <Street br="Біла гірка"/>
+    <Street br="Боженка"/>
+    <Street br="Бурмистенка"/>
+    <Street br="Бутлерова (пров.)"/>
+    <Street br="Вознесенського"/>
+    <Street br="Глаголєва"/>
+    <Street br="Зореносна"/>
+    <Street br="Калантая"/>
+    <Street br="Колонтая"/>
+    <Street br="Ладозъка"/>
+    <Street br="Лисяка"/>
+    <Street br="Миколи Лисяка"/>
+    <Street br="Мусоргського (2-32; 9-33)"/>
+    <Street br="Новобудов"/>
+    <Street br="П’ятихатська"/>
+    <Street br="Стадіонна"/>
+    <Street br="Станціонна"/>
+  </City>
+	
+  <City>
+    <Index value="50054"/>
+    <Street br="Абаканська"/>
+    <Street br="Арістова"/>
+    <Street br="Бабушкіна"/>
+    <Street br="Басова"/>
+    <Street br="Бессонова"/>
+    <Street br="Благоєва"/>
+    <Street br="Буніна"/>
+    <Street br="Вахрушева"/>
+    <Street br="Вольтера"/>
+    <Street br="Воронезька"/>
+    <Street br="Вятська"/>
+    <Street br="Гаршина (пров.)"/>
+    <Street br="Гаршина"/>
+    <Street br="Горбаченка"/>
+    <Street br="25-річчя Жовтня"/>
+    <Street br="10-річчя Жовтня"/>
+    <Street br="Дністровська"/>
+    <Street br="Живописна"/>
+    <Street br="Іскрівська"/>
+    <Street br="Карпенка-Карого"/>
+    <Street br="Кишинівська"/>
+    <Street br="Климова"/>
+    <Street br="Кокотіна"/>
+    <Street br="Криничанська"/>
+    <Street br="Кришталева"/>
+    <Street br="Кузнецька (2-56)"/>
+    <Street br="Куйбишева"/>
+    <Street br="Лафарга"/>
+    <Street br="Левітана"/>
+    <Street br="Липецька"/>
+    <Street br="Лікарський (пров.)"/>
+    <Street br="Львівська"/>
+    <Street br="Мелітопольська"/>
+    <Street br="Милашенкова"/>
+    <Street br="Молодіжна"/>
+    <Street br="Муромська"/>
+    <Street br="Некрасова (3-49)"/>
+    <Street br="Нерчинська"/>
+    <Street br="Павлоградська"/>
+    <Street br="Пловдівська"/>
+    <Street br="Поповича"/>
+    <Street br="Постеряєва"/>
+    <Street br="Путійців"/>
+    <Street br="Сизранська"/>
+    <Street br="Транзитна"/>
+    <Street br="Тульська"/>
+    <Street br="Цитрусова"/>
+    <Street br="Чебишева"/>
+    <Street br="Червонопресненська (рос. Краснопресненская)"/>
+    <Street br="Черемхова"/>
+    <Street br="Черноморська"/>
+    <Street br="Чорноморська"/>
+    <Street br="Шполянська"/>
+    <Street br="Щукіна"/>
+    <Street br="Яковлєва"/>
+  </City>
+	
+  <City>
+    <Index value="50055"/>
+    <Street br="Батъківщини (рос. Родины)"/>
+    <Street br="Дорожній (пров.)"/>
+    <Street br="Заньковецької"/>
+    <Street br="Іванівська"/>
+    <Street br="Кириленка (12; 16; 20; 14; 22; 24)"/>
+    <Street br="Ковровська"/>
+    <Street br="Кокчетавська"/>
+    <Street br="Кубинська"/>
+    <Street br="Літке"/>
+    <Street br="Лобачевського"/>
+    <Street br="Лугова"/>
+    <Street br="Мало-Архангельська"/>
+    <Street br="Мухіної"/>
+    <Street br="Нікопольське шосе"/>
+    <Street br="Петріківська"/>
+    <Street br="Південна"/>
+    <Street br="Промислова"/>
+    <Street br="Ромена Роллана"/>
+    <Street br="Чаплигіна"/>
+    <Street br="Щоголєва"/>
+    <Street br="Янки Купали"/>
+  </City>
+	
+  <City>
+    <Index value="50056"/>
+    <Street br="Сонячний (мкрн)"/>
+  </City>
+	
+  <City>
+    <Index value=""/>50057
+    <Street br="Гірницький (мкрн)"/>
+  </City>
+	
+  <City>
+    <Index value="50058"/>
+    <Street br="Перемоги (просп.) (18-22; 37-43; 37а)"/>
+    <Street br="Шаляпіна"/>
+  </City>
+	
+  <City>
+    <Index value="50059"/>
+    <Street br="Балакірєва"/>
+    <Street br="Бєлостоцька"/>
+    <Street br="Білостоцька"/>
+    <Street br="Бубнова"/>
+    <Street br="Бузький (пров.)"/>
+    <Street br="Ватутіна (32-62; 41-45)"/>
+    <Street br="Верещагіна"/>
+    <Street br="Виноградова"/>
+    <Street br="Войкова"/>
+    <Street br="Вузлова"/>
+    <Street br="Гвардійська"/>
+    <Street br="Грибоєдова"/>
+    <Street br="20 Партз’їзду (14; 16; 18)"/>
+    <Street br="Жуковського"/>
+    <Street br="Кропивницького (67; 67а; 103)"/>
+    <Street br="Сибірська"/>
+    <Street br="Хорезмська"/>
+    <Street br="Чичеріна"/>
+    <Street br="Чубаря"/>
+  </City>
+	
+  <City>
+    <Index value="50061"/>
+    <Street br="Ахтирський (пров.)"/>
+    <Street br="Ногіна (6-20; 6а; 12а; 14а)"/>
+  </City>
+	
+  <City>
+    <Index value="50063"/>
+    <Street br="Волгоградська (4; 1; 3; 9; 11)"/>
+    <Street br="Галана (73-105; 74-104)"/>
+    <Street br="Ключовий (пров.)"/>
+    <Street br="Кузнецова (33-71)"/>
+    <Street br="Курчатова (19-21; 12-23)"/>
+    <Street br="Ласточкіна"/>
+    <Street br="Марата"/>
+    <Street br="Паризької Комуни (2-72; 1-73)"/>
+    <Street br="Політаєва (пров.)"/>
+    <Street br="Сагайдачного (38-84; 41-109)"/>
+    <Street br="Трактористів (2-34; 1-37)"/>
+    <Street br="Тухачевського (16-56; 13-89)"/>
+    <Street br="Чигоріна (18-56; 11-67)"/>
+    <Street br="Ярошенка"/>
+  </City>
+	
+  <City>
+    <Index value="50064"/>
+    <Street br="Будівельна"/>
+    <Street br="Бурщицька"/>
+    <Street br="Бухарестська"/>
+    <Street br="Веселкова"/>
+    <Street br="Гімалайська"/>
+    <Street br="Гуренка"/>
+    <Street br="Дворжака"/>
+    <Street br="Драйзера"/>
+    <Street br="Енергетиків"/>
+    <Street br="Каткова (1-15"/>
+    <Street br="Левицького"/>
+    <Street br="Лихачова"/>
+    <Street br="Макіївська"/>
+    <Street br="Недєліна (2-12)"/>
+    <Street br="Нижня"/>
+    <Street br="Новорічна"/>
+    <Street br="Остапа Вишні"/>
+    <Street br="Перемоги (просп.) (2-16; 1-9; 23; 25; 25а; 27; 33;"/>
+    <Street br="Переможців"/>
+    <Street br="50-річчя Жовтня (24-34)"/>
+    <Street br="Рудна"/>
+    <Street br="Садова"/>
+    <Street br="Сєднєва (просп.)"/>
+    <Street br="Соколовського"/>
+    <Street br="Сонячна"/>
+    <Street br="Спортивна"/>
+    <Street br="Сухомлинського"/>
+    <Street br="Юна"/>
+    <Street br="Ялинкова"/>
+  </City>
+	
+  <City>
+    <Index value="50065"/>
+    <Street br="Аносова"/>
+    <Street br="Будьонного (1-17)"/>
+    <Street br="22 Партз’їзду (2-10)"/>
+    <Street br="Дибенка"/>
+    <Street br="Інгуська"/>
+    <Street br="Коксохімічна"/>
+    <Street br="Косіора (20-86)"/>
+    <Street br="Костенка (17; 21-37)"/>
+    <Street br="Лісоводів"/>
+    <Street br="Немировича-Данченка"/>
+    <Street br="Новгородська"/>
+    <Street br="Панфілова"/>
+    <Street br="Революційна (19-33)"/>
+    <Street br="Стрєльникова"/>
+    <Street br="Туркменська"/>
+    <Street br="Хіміків"/>
+  </City>
+	
+  <City>
+    <Index value="50066"/>
+    <Street br="Архангельський (пров.)"/>
+    <Street br="Брестська"/>
+    <Street br="Двінська"/>
+    <Street br="Зелена"/>
+    <Street br="Квіткова (рос. Цветочная)"/>
+    <Street br="Луганська"/>
+    <Street br="Механізаторів"/>
+    <Street br="Мирівська"/>
+    <Street br="Океанська"/>
+    <Street br="Орська"/>
+    <Street br="Острівна"/>
+    <Street br="Паторжинського"/>
+    <Street br="Пухова"/>
+    <Street br="Ризька"/>
+    <Street br="Світла"/>
+    <Street br="Талліннська"/>
+    <Street br="Театральна"/>
+    <Street br="Уманська"/>
+    <Street br="Шитова"/>
+  </City>
+	
+  <City>
+    <Index value="50067"/>
+    <Street br="Баумана (2-40; 1-47)"/>
+    <Street br="Благонравова"/>
+    <Street br="Верхоянська"/>
+    <Street br="Весела Дача"/>
+    <Street br="Гете (2-40; 11; 13; 15)"/>
+    <Street br="Дачна"/>
+    <Street br="Довгорукого"/>
+    <Street br="Ісаковського"/>
+    <Street br="Лабораторна (2-54; 54а; 1-47)"/>
+    <Street br="Лауреатів"/>
+    <Street br="Мічуріна (1-23)"/>
+    <Street br="Мокрицького"/>
+    <Street br="Пирогова (1-41; 45а)"/>
+    <Street br="Пирогова (2-56)"/>
+    <Street br="Пржевальского"/>
+    <Street br="Пугачова"/>
+    <Street br="Рєпіна"/>
+    <Street br="Сєрова"/>
+    <Street br="Сухе-Батора"/>
+    <Street br="Чигиринська"/>
+  </City>
+	
+  <City>
+    <Index value="50068"/>
+    <Street br="Багратіона (24-46; 25-45)"/>
+    <Street br="Бонч-Бруєвича"/>
+    <Street br="Геодезична"/>
+    <Street br="Гірницька"/>
+    <Street br="Гоголя"/>
+    <Street br="Горлівська"/>
+    <Street br="Готвальда"/>
+    <Street br="Гротеволя"/>
+    <Street br="Єршова"/>
+    <Street br="Киргизька"/>
+    <Street br="Кочубея"/>
+    <Street br="Літня"/>
+    <Street br="Льотна"/>
+    <Street br="Наукова"/>
+    <Street br="Нова"/>
+    <Street br="Панфьорова"/>
+    <Street br="Салютна"/>
+    <Street br="Таджицька"/>
+    <Street br="Уральська"/>
+    <Street br="Федька"/>
+    <Street br="Флобера"/>
+    <Street br="Церетелі"/>
+    <Street br="Чавдара"/>
+    <Street br="Чайок"/>
+    <Street br="Чапека"/>
+    <Street br="Чеговця"/>
+    <Street br="Чернишевського"/>
+    <Street br="Шевцової"/>
+    <Street br="Шувалова"/>
+  </City>
+	
+  <City>
+    <Index value="50069"/>
+    <Street br="Гаджибекова"/>
+    <Street br="Городищенська"/>
+    <Street br="Горького (площа)"/>
+    <Street br="Дарвіна"/>
+    <Street br="Демченко"/>
+    <Street br="Калініна"/>
+    <Street br="Маяковського (площа) (4-50; 3-51)"/>
+    <Street br="Меркурова"/>
+    <Street br="Миру (просп.) (42-56"/>
+    <Street br="Мудрьона"/>
+    <Street br="Огарьова"/>
+    <Street br="Уборевича"/>
+  </City>
+	
+  <City>
+    <Index value="50070"/>
+    <Street br="Автозаводська"/>
+    <Street br="Довгинцівський (пров.)"/>
+    <Street br="Каменедробильна"/>
+    <Street br="Саранська"/>
+    <Street br="Сиктивкарська"/>
+    <Street br="Стерлітамацька"/>
+    <Street br="Сумгаїтська"/>
+    <Street br="Таймирська"/>
+    <Street br="Татарська"/>
+    <Street br="Тувинська"/>
+  </City>
+	
+  <City>
+    <Index value="50071"/>
+    <Street br="Балакіна (1-41)"/>
+    <Street br="Бульварний (пров.)"/>
+    <Street br="Гамарника"/>
+    <Street br="Дзержинського (просп.)"/>
+    <Street br="Димитрова (95; 81-107)"/>
+    <Street br="Дідро (2-26; 1-25)"/>
+    <Street br="Дрогобицька"/>
+    <Street br="Качалова (24-38; 55-125)"/>
+    <Street br="Косарева (142-228; 159-239)"/>
+    <Street br="Космонавтів (21-29; 31; 33; 35; 37; 39; 41; 45)"/>
+    <Street br="Кустанайська (86)"/>
+    <Street br="Мануйлова (1-7)"/>
+    <Street br="Мелешкіна (24-30; 29-51)"/>
+    <Street br="Пришвіна"/>
+    <Street br="Тесленка (11-19)"/>
+    <Street br="Тираспільська"/>
+    <Street br="Харцизька (176-240; 139-197)"/>
+  </City>
+	
+  <City>
+    <Index value="50072"/>
+    <Street br="Алімова"/>
+    <Street br="Амосова"/>
+    <Street br="Анатолія Жовтухи"/>
+    <Street br="Ангеліної"/>
+    <Street br="Арктична"/>
+    <Street br="Берута"/>
+    <Street br="Бєлгородська"/>
+    <Street br="Білгородська"/>
+    <Street br="Білоруська"/>
+    <Street br="Брянська (2-72; 1-79а)"/>
+    <Street br="Букова"/>
+    <Street br="Водний (пров.)"/>
+    <Street br="Гірницької слави"/>
+    <Street br="Гоголя (пров.)"/>
+    <Street br="Гончарова"/>
+    <Street br="Горійська"/>
+    <Street br="Городовикова"/>
+    <Street br="Горького"/>
+    <Street br="Гризодубової"/>
+    <Street br="Гріга"/>
+    <Street br="Гріна"/>
+    <Street br="Громова (2-32; 1-35)"/>
+    <Street br="Гусєва"/>
+    <Street br="Дагестанська"/>
+    <Street br="Далека"/>
+    <Street br="Демокріта"/>
+    <Street br="Донецька (2-120; 11-127)"/>
+    <Street br="Дунаєвского"/>
+    <Street br="Дунайська"/>
+    <Street br="Душанбинська"/>
+    <Street br="Дюма"/>
+    <Street br="Жовтухи"/>
+    <Street br="Зелений Гай"/>
+    <Street br="Клари Цеткін"/>
+    <Street br="Кондукторська"/>
+    <Street br="Конєва"/>
+    <Street br="Коперника"/>
+    <Street br="Кравченка"/>
+    <Street br="Кременчуцька"/>
+    <Street br="Курочкіна"/>
+    <Street br="Кюрі"/>
+    <Street br="Лациса"/>
+    <Street br="Леонтовича"/>
+    <Street br="Маршрутна"/>
+    <Street br="Махачкалинська"/>
+    <Street br="Миколи Кацалапа"/>
+    <Street br="Миколи Ходича"/>
+    <Street br="Моїсеївська"/>
+    <Street br="Муравйова"/>
+    <Street br="Навої"/>
+    <Street br="Паши Ангеліної"/>
+    <Street br="Пермська"/>
+    <Street br="Північний (пров.)"/>
+    <Street br="Підстепна"/>
+    <Street br="Постоя"/>
+    <Street br="Псковська"/>
+    <Street br="Разіна"/>
+    <Street br="Реріха"/>
+    <Street br="Россіні"/>
+    <Street br="Свердлова (16-348; 17-347)"/>
+    <Street br="Синяєва"/>
+    <Street br="Слави (пров.)"/>
+    <Street br="Толстого (2-42; 1-43)"/>
+    <Street br="Тропініна (пров.)"/>
+    <Street br="Турганінова"/>
+    <Street br="Тюльпанів"/>
+    <Street br="Тянь-шанська"/>
+    <Street br="Удмуртська"/>
+    <Street br="Українська (114-314; 85-235)"/>
+    <Street br="Фарфорова"/>
+    <Street br="Фуко"/>
+    <Street br="Фурманова"/>
+    <Street br="Фучика (пров.)"/>
+    <Street br="Фучика"/>
+    <Street br="Цвейга"/>
+    <Street br="Чемпіонів"/>
+    <Street br="Черемшини"/>
+    <Street br="Черняховського (54-198; 99-283)"/>
+    <Street br="Чудська"/>
+    <Street br="Шаблія"/>
+    <Street br="Шмідта"/>
+    <Street br="Яна Гуса"/>
+  </City>
+	
+  <City>
+    <Index value="50073"/>
+    <Street br="Вереснева (рос. Сентябрьская)"/>
+    <Street br="Весела"/>
+    <Street br="ВЛКСМ 50 років"/>
+    <Street br="Зеленівська"/>
+    <Street br="Кампанелли"/>
+    <Street br="Краснодонська"/>
+    <Street br="Лисичанська"/>
+    <Street br="Овочеводів"/>
+    <Street br="Полтавська (2-16 приватний сектор)"/>
+    <Street br="50-річчя ВЛКСМ"/>
+    <Street br="Робітнича"/>
+    <Street br="Фельдмана"/>
+    <Street br="Фізкультурна"/>
+    <Street br="Червонофлотська (рос. Краснофлотская)"/>
+    <Street br="Шкірятова"/>
+    <Street br="Яновського"/>
+    <Street br="Ясна"/>
+  </City>
+	
+  <City>
+    <Index value="50074"/>
+    <Street br="Бруно"/>
+    <Street br="Залізнорудна (2-40)"/>
+    <Street br="Іркутська"/>
+    <Street br="Красикова"/>
+    <Street br="Курська"/>
+    <Street br="Мармурова"/>
+    <Street br="Миклухо-Маклая"/>
+    <Street br="Миру (просп.) (28; 19-31"/>
+    <Street br="Мраморна"/>
+    <Street br="Сімферопольська"/>
+    <Street br="Софії Ковалевської"/>
+    <Street br="Сталеварів"/>
+    <Street br="Суворова"/>
+    <Street br="Травнева"/>
+    <Street br="Якіра (22-34; 7; 9; 13)"/>
+  </City>
+	
+  <City>
+    <Index value="50075"/>
+    <Street br="Ветеранів праці (28-50; 51; 56-64; 53-65; 73)"/>
+    <Street br="Постишева (26-104; 17-35)"/>
+  </City>
+	
+  <City>
+    <Index value="50076"/>
+    <Street br="Балакіна (4-26)"/>
+    <Street br="Вечірній (бульвар)"/>
+    <Street br="Корнійчука"/>
+  </City>
+	
+  <City>
+    <Index value="50077"/>
+    <Street br="Академіка Павлова"/>
+    <Street br="Арсена"/>
+    <Street br="Вартаняна"/>
+    <Street br="Вербова"/>
+    <Street br="Верещинського"/>
+    <Street br="Вершигори"/>
+    <Street br="Вогнева"/>
+    <Street br="Ворошилова"/>
+    <Street br="Гастелло"/>
+    <Street br="Гірничорудний (пров.)"/>
+    <Street br="Дворникова"/>
+    <Street br="Дем'янова"/>
+    <Street br="25 років Жовтня"/>
+    <Street br="Зої Космодем’янської"/>
+    <Street br="Івана Сірка (22; 23-74)"/>
+    <Street br="Кирюхіна"/>
+    <Street br="Короленка (2-24; 1-11)"/>
+    <Street br="Красноармійська"/>
+    <Street br="Латвійська"/>
+    <Street br="Лейпцигський (пров.)"/>
+    <Street br="Луговського (пров.)"/>
+    <Street br="Малиновського"/>
+    <Street br="Матросова (2-102; 1-73)"/>
+    <Street br="Найденка (1-23)"/>
+    <Street br="Перейзний (пров.)"/>
+    <Street br="Петлякова"/>
+    <Street br="Покришева"/>
+    <Street br="Свободи"/>
+    <Street br="Сірка (2-94; 1-51)"/>
+    <Street br="Юрія Смірнова (2-26; 1-35)"/>
+    <Street br="Станціонний (пров.)"/>
+    <Street br="Устиновича"/>
+    <Street br="Факельний (пров.)"/>
+    <Street br="Червоноармійська (рос. Красноармейская)"/>
+    <Street br="Чехова (пров.)"/>
+    <Street br="Шумського (пров.)"/>
+    <Street br="Щегловського"/>
+    <Street br="Щербакова"/>
+    <Street br="Юрія Смірнова (2-26; 1-35)"/>
+  </City>
+	
+  <City>
+    <Index value="50078"/>
+    <Street br="Індустріальний (мкрн)"/>
+    <Street br="Саласюка"/>
+    <Street br="Шапоріна"/>
+  </City>
+	
+  <City>
+    <Index value="50079"/>
+    <Street br="Бірюзова"/>
+    <Street br="Юрія Смірнова (39-47)"/>
+    <Street br="Черкасова"/>
+    <Street br="Юрія Смірнова (39-47)"/>
+  </City>
+	
+  <City>
+    <Index value="50081"/>
+    <Street br="Асєєва"/>
+    <Street br="Берегова"/>
+    <Street br="Електроніки"/>
+    <Street br="Електростальська"/>
+    <Street br="Енштейна"/>
+    <Street br="Естонська"/>
+    <Street br="Єнісейська"/>
+    <Street br="Зарічний 5 (мкрн)"/>
+    <Street br="Зеленоградська"/>
+    <Street br="Квартальна"/>
+    <Street br="Олександрівська"/>
+    <Street br="Улітіна"/>
+    <Street br="Шверника"/>
+    <Street br="Яблунева"/>
+    <Street br="Ямалська"/>
+  </City>
+	
+  <City>
+    <Index value="50082"/>
+    <Street br="Валі Котика"/>
+    <Street br="Грицевця"/>
+    <Street br="Енгельса"/>
+    <Street br="Закарпатська"/>
+    <Street br="Косигіна"/>
+    <Street br="Ленінська підстанція"/>
+    <Street br="Ломоносова (2-68; 3-69)"/>
+    <Street br="Паустовського"/>
+    <Street br="Руданського"/>
+    <Street br="Рябінова"/>
+    <Street br="Снігурівська"/>
+    <Street br="Щорса (50-52; 31-49)"/>
+  </City>
+	
+  <City>
+    <Index value="50083"/>
+    <Street br="Арсентьєва"/>
+    <Street br="Богдана Хмельницького"/>
+    <Street br="Варлєна (пров.)"/>
+    <Street br="Івана Сірка (53-67; 69-95)"/>
+    <Street br="Ігарський (пров.)"/>
+    <Street br="Ігарська"/>
+    <Street br="Короленка (54-86; 15-31)"/>
+    <Street br="Лєскова"/>
+    <Street br="Луцька"/>
+    <Street br="Магелана (пров.)"/>
+    <Street br="Марії Ульянової"/>
+    <Street br="Матросова (122-152; 103-119; 144-178; 121-143)"/>
+    <Street br="Олега Кошового (пров.)"/>
+    <Street br="Сірка (53-95)"/>
+    <Street br="Ухтомського"/>
+    <Street br="Федоренка"/>
+    <Street br="Шверника (пров.)"/>
+    <Street br="Шишкіна (пров.)"/>
+  </City>
+	
+  <City>
+    <Index value="50084"/>
+    <Street br="200-річчя Кривого Рогу (просп.) (7-17)"/>
+    <Street br="200 років Кривому Рогу (7-17)"/>
+    <Street br="Спаська (2; 4; 1; 3)"/>
+    <Street br="Співдружності (50-56; 58-62; 66-112; 47; 87)"/>
+    <Street br="Ювілейний (мкрн)"/>
+  </City>
+	
+  <City>
+    <Index value="50085"/>
+    <Street br="Вибірна"/>
+    <Street br="Вургуна"/>
+    <Street br="Гаркуші"/>
+    <Street br="Георга Отса"/>
+    <Street br="Гомера"/>
+    <Street br="Граве"/>
+    <Street br="Григоровича"/>
+    <Street br="Індустріальна"/>
+    <Street br="Кальмана"/>
+    <Street br="Камишанська"/>
+    <Street br="Карнавальна"/>
+    <Street br="Комишанська"/>
+    <Street br="Коротченка"/>
+    <Street br="Малинова"/>
+    <Street br="Маршала Василевського (бульвар)"/>
+    <Street br="Масштабна"/>
+    <Street br="Милорадівська"/>
+    <Street br="Московська"/>
+    <Street br="Нова Зоря"/>
+    <Street br="50-річчя Перемоги"/>
+    <Street br="П’ятигорська"/>
+    <Street br="П'ятирічок"/>
+    <Street br="Ханойська"/>
+    <Street br="Холмогорська"/>
+  </City>
+	
+  <City>
+    <Index value="50086"/>
+    <Street br="Блюхера (2-6)"/>
+    <Street br="Бородича"/>
+    <Street br="Будьонного (2-4)"/>
+    <Street br="Гагаріна (просп.) (54-72; 53-81)"/>
+    <Street br="Галенка (5-11)"/>
+    <Street br="Димитрова (34-64)"/>
+    <Street br="Димитрова (72)"/>
+    <Street br="Дмитра Донского"/>
+    <Street br="Миколи Бородича"/>
+    <Street br="Отто Брозовського (74-90; 87-93)"/>
+    <Street br="50-річчя Радянської Міліції"/>
+    <Street br="Телевізійна"/>
+  </City>
+	
+  <City>
+	<Index value="50088"/>
+		<Street br="200 років Кривому Рогу (8-12)"/>
+	</City>
+	
+	<City>
+	  <Index value="50089"/>
+	  <Street br="Адмірала Головка"/>
+	  <Street br="Добронравова"/>
+	  <Street br="Маршака"/>
+	</City>
+  <City>
+    <Index value="50090"/>
+    <Street br="Абрикосова"/>
+    <Street br="Аверіна"/>
+    <Street br="Аліма Солониченка"/>
+    <Street br="Арістотеля"/>
+    <Street br="Архімеда"/>
+    <Street br="Астраханська"/>
+    <Street br="Бібліотечний (пров.)"/>
+    <Street br="Віконний (пров.)"/>
+    <Street br="Ганді"/>
+    <Street br="Глазунова"/>
+    <Street br="Грузинська"/>
+    <Street br="Довженка"/>
+    <Street br="Звичайний (пров.)"/>
+    <Street br="Індіри Ганді"/>
+    <Street br="Кастуся Калиновського"/>
+    <Street br="Каширська"/>
+    <Street br="Люберецька"/>
+    <Street br="Мірошниченка"/>
+    <Street br="Нізамі"/>
+    <Street br="Норільська"/>
+    <Street br="Опаріна (пров.)"/>
+    <Street br="Паладіна"/>
+    <Street br="Полєнова"/>
+    <Street br="Ползунова"/>
+    <Street br="Рибінська"/>
+    <Street br="Річкова"/>
+    <Street br="Ровенська"/>
+    <Street br="Сестрорецька"/>
+    <Street br="Сиваський спуск"/>
+    <Street br="Солоніченко"/>
+    <Street br="40-річчя Перемоги (площа)"/>
+    <Street br="Тернівська"/>
+    <Street br="Червонопрапорна (рос. Краснознаменная)"/>
+    <Street br="Шадринська"/>
+    <Street br="Якуба Коласа"/>
+    <Street br="Янтарна"/>
+  </City>
+	
+	<City>
+	  <Index value="50091"/>
+	    <Street br="Обсерваторна"/>
+	    <Street br="Сєдова"/>
+	    <Street br="Центральна"/>
+	    <Street br="Центральний (пров.)"/>
+  </City>
+	<City>
+	<Index value="50093"/>
+		<Street br="Академіка Сахарова"/>
+		<Street br="Гутовського"/>
+		<Street br="Лісового"/>
+		<Street br="Незалежності України"/>
+		<Street br="Приозерна"/>
+		<Street br="Сахарова"/>
+	</City>
+  <City>
+	<Index value="50096"/>
+		<Street br="Ватутіна (64-84; 37; 47-53; 59-61)"/>
+		<Street br="Кропивницького (75а; 83а)"/>
+		<Street br="Оздоровче містечко"/>
+    </City>
+  <City>
+	<Index value="50097"/>
+		<Street br="Альохіна"/>
+		<Street br="Багрицького"/>
+		<Street br="Бориса Глинки"/>
+		<Street br="Ділова"/>
+		<Street br="Зорге"/>
+		<Street br="Кольорова"/>
+		<Street br="Котовського"/>
+		<Street br="Малигіна"/>
+		<Street br="Меріме"/>
+		<Street br="Митищинська"/>
+		<Street br="Покришкіна"/>
+		<Street br="Святкова (рос. Праздничная)"/>
+		<Street br="Солідарності"/>
+		<Street br="Суботня"/>
+		<Street br="Унгенська"/>
+		<Street br="Урожайна (2-12; 1-21)"/>
+		<Street br="Хмєлєва"/>
+		<Street br="Хорватська"/>
+		<Street br="Чеботарьова"/>
+		<Street br="Чекаліна"/>
+		<Street br="Шанцера"/>
+		<Street br="Швецова"/>
+	</City>
+  <City>
+    <Index value="50098"/>
+    <Street br="Афіногенова"/>
+    <Street br="Березова"/>
+    <Street br="Березова"/>
+    <Street br="Воліна"/>
+    <Street br="Даля"/>
+    <Street br="Заводська"/>
+    <Street br="Зимова (29-33)"/>
+    <Street br="Знаменська"/>
+    <Street br="Інгулецька"/>
+    <Street br="Колгоспна"/>
+    <Street br="Леніна (70-82; 99-103)"/>
+    <Street br="Маміна-Сибіряка"/>
+    <Street br="Манюшко"/>
+    <Street br="Маршова"/>
+    <Street br="Монгольська"/>
+    <Street br="Монюшка"/>
+    <Street br="Нагірна"/>
+    <Street br="Нижньотагільська"/>
+    <Street br="Паганіні"/>
+    <Street br="Патона"/>
+    <Street br="Першоуральська"/>
+    <Street br="Печорська"/>
+    <Street br="Польська"/>
+    <Street br="Пуччині"/>
+    <Street br="Пхеньянська"/>
+    <Street br="Радянської Армії"/>
+    <Street br="Тельмана"/>
+    <Street br="Умільців"/>
+    <Street br="Усика"/>
+    <Street br="Царичанська"/>
+    <Street br="Цвєтаєвої"/>
+    <Street br="Цементна"/>
+    <Street br="Цехова"/>
+    <Street br="Широківська"/>
+    <Street br="Шкільна"/>
+    <Street br="Штрауса"/>
+    <Street br="Шубіна"/>
+    <Street br="Шульги"/>
+  </City>
+
+  <City>
+    <Index value="50101"/>
+    <Street br="Радянська (площа)"/>
+  </City>
+
+  <City>
+    <Index value="50102"/>
+    <Street br="27 Партз’їзду"/>
+    <Street br="Каткова (37-71)"/>
+    <Street br="Купріянця"/>
+    <Street br="Мартовича"/>
+    <Street br="Найденка (2-32; 1-31)"/>
+    <Street br="Недєліна (20-32; 51-59; 43а)"/>
+    <Street br="Озерна (1-119)"/>
+    <Street br="Олега Купріянця"/>
+    <Street br="Панкова"/>
+    <Street br="Перемоги (просп.) (42-48; 47-55)"/>
+  </City>
+	
+  <City>
+    <Index value="50103"/>
+    <Street br="Блюхера (1-15)"/>
+    <Street br="Димитрова (17-79)"/>
+    <Street br="Докучаєва"/>
+    <Street br="Косіора (88-94; 75; 105)"/>
+    <Street br="Пам’яті героїв"/>
+    <Street br="Постишева (106-160; 37-45)"/>
+    <Street br="Революційна (36"/>
+    <Street br="Скочинського"/>
+    <Street br="Тайгова"/>
+    <Street br="Трудовиків"/>
+    <Street br="Хороводна"/>
+  </City>
+	
+
+  <City>
+    <Index value="50105"/>
+    <Street br="Баха"/>
+    <Street br="Блинова (62-68; 61-91)"/>
+    <Street br="Гойї"/>
+    <Street br="Дніпропетровське шосе (2-26; 1-11; 15)"/>
+    <Street br="Домобудівна"/>
+    <Street br="Казарма 3 км"/>
+    <Street br="Корчагіна"/>
+    <Street br="Павла Корчагіна"/>
+    <Street br="Північнодвінська"/>
+    <Street br="Пуріна"/>
+    <Street br="Рубенса"/>
+    <Street br="Сормівська"/>
+    <Street br="40-річчя Жовтня"/>
+    <Street br="Сухумська"/>
+    <Street br="Тягова підстанція"/>
+  </City>
+	
+	
+  <City>
+    <Index value="50106"/>
+    <Street br="Алексєєва (пров.)"/>
+    <Street br="Городна (рос. Огородная)"/>
+    <Street br="Гранітна"/>
+    <Street br="Державіна"/>
+    <Street br="Електрозаводська"/>
+    <Street br="Зарічний 4 (мкрн)"/>
+    <Street br="Зарічний 7 (мкрн)"/>
+    <Street br="Кресівська"/>
+    <Street br="Лютнева (рос. Февральская)"/>
+    <Street br="Панкєєва"/>
+    <Street br="ППЧ (пожежна частина)"/>
+    <Street br="Привільна"/>
+    <Street br="Пригородна"/>
+    <Street br="Самаркандська"/>
+    <Street br="Серьогіна"/>
+    <Street br="Фабрична"/>
+    <Street br="Фабриціуса"/>
+    <Street br="Фальківського"/>
+    <Street br="Фарадея"/>
+    <Street br="Цхакая"/>
+    <Street br="Шаумяна"/>
+    <Street br="Штерівська"/>
+  </City>
+	
+
+  <City>
+    <Index value="50480"/>
+    <Street br="Адама Мицкевича"/>
+    <Street br="Антона Овсіенка"/>
+    <Street br="В’язова"/>
+    <Street br="Корольова"/>
+    <Street br="Міцкевича"/>
+    <Street br="Молдавська"/>
+    <Street br="Овсієнка"/>
+    <Street br="Скрябіна"/>
+    <Street br="Станція Саксагань"/>
+    <Street br="Трєньова"/>
+  </City>
+	
+	
+  <City>
+    <Index value="50481"/>
+    <Street br="Великолуцька"/>
+    <Street br="Ковпака (просп.)"/>
+    <Street br="Комарова"/>
+    <Street br="Миколаївська"/>
+    <Street br="Моріса Тореза"/>
+    <Street br="Сахалінська"/>
+    <Street br="Смоленська"/>
+    <Street br="Снігова"/>
+    <Street br="Фаворського"/>
+    <Street br="Філянського"/>
+    <Street br="Ширшова"/>
+    <Street br="Широка"/>
+  </City>
+	
+	
+  <City>
+    <Index value="50482"/>
+    <Street br="Авангардна"/>
+    <Street br="Журавського"/>
+    <Street br="Силікатна"/>
+    <Street br="Тополина"/>
+  </City>
+	
+	
+</root>
